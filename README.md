@@ -16,11 +16,11 @@ Core Features:
 
 Requirements:
 
-Python 3.x
+1. Python 3.x
 
-Django
+2. Django
 
-Pillow
+3. Pillow
 
 Setup:
 
