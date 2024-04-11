@@ -14,9 +14,12 @@ Core Features:
 
 5. Interactive Interface: User-friendly error and success messages enhance user experience.
 
-Requirements
+Requirements:
+
 Python 3.x
+
 Django
+
 Pillow
 
 Setup:
