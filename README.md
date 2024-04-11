@@ -4,15 +4,15 @@ The Apllication, crafted with the Django framework, serves as a dynamic web appl
 
 Core Features:
 
-User Authentication,
+1. User Authentication,
 
-Password Strength Validation.
+2. Password Strength Validation.
 
-User Profile Management.
+3. User Profile Management.
 
-Post Management: Perfm CRUD operations on posts including creation, reading, updating, and deletion.
+4. Post Management: Perfm CRUD operations on posts including creation, reading, updating, and deletion.
 
-Interactive Interface: User-friendly error and success messages enhance user experience.
+5. Interactive Interface: User-friendly error and success messages enhance user experience.
 
 Requirements
 Python 3.x
@@ -21,10 +21,10 @@ Pillow
 
 Setup:
 
-pip install -r requirements.txt
+1. pip install -r requirements.txt
 
-python manage.py migrate
+2. python manage.py migrate
 
-python manage.py createsuperuser
+3. python manage.py createsuperuser
 
-python manage.py runserver
+4. python manage.py runserver
